@@ -9,6 +9,7 @@ screen = Screen()
 screen.colormode(255)
 
 
+# This color list is obtained by running hirst_color.py 
 colors = [(229, 160, 61), (49, 101, 147), (11, 128, 91), (206, 113, 154), (138, 20, 60), (158, 154, 30), (219, 69, 107), (176, 40, 74)]
 
 

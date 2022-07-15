@@ -10,9 +10,15 @@ Some python projects i code in [100-days-code-bootcamp](https://www.udemy.com/co
 
 Blackjack with infinite deck.
 
+<img src ="img/blackjack.png" width= "500">
+
 \~~~
 
 ### **Hirst's Dots & Spirograf** - day 18
 
 Using _colorgram.py_ and _turtle_ packages, made colorful circles and a similar of Hirst's famous dot paintings.
+
+
+<img src ="img/spirograf.png" width= "500">
+<img src ="img/hirst.png" width= "500">
 

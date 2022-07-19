@@ -22,3 +22,12 @@ Using _colorgram.py_ and _turtle_ packages, made colorful circles and a similar 
 <img src ="img/spirograf.png" width= "500">
 <img src ="img/hirst.png" width= "500">
 
+\~~~
+
+### **Rainbow Turtle Race** - day 19
+
+I used turtle graphics create rainbow-color turtles and put them on a randomized pace race.
+
+
+<img src ="img/turtle-race.png" width= "500">
+

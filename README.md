@@ -33,9 +33,26 @@ I used turtle graphics to create rainbow-color turtles and put them on a randomi
 
 \~~~
 
-### **Snake Game** - day 19
+### **Snake Game** - day 20-21
 
-I used turtle graphics to code the legendary *snake game*.
+I used turtle graphics to code the legendary *SNAKE GAME*.
 
 
 <img src ="img/snake.png" width= "450">
+
+\~~~
+
+### **Pong Game** - day 22
+
+I used turtle module to code the legendary arcade game *PONG*.
+
+
+<img src ="img/snake.png" width= "450">
+
+
+### **Turtle Cross** - day 23
+
+I used turtle module to create a turtle crossing game.
+
+
+<img src ="img/turtle-cross.png" width= "450">

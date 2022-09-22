@@ -29,7 +29,7 @@ tim.penup()
 for i in range (10):
     for j in range(10):
         if j == 0:
-            tim.goto(-235, -235+50*i)   # 260 = (50*10+20)/2
+            tim.goto(-235, -235+50*i)   # 235 = (50*9+20)/2
         else:
             tim.setheading(0)   # set to the right
             tim.forward(50)

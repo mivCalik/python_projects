@@ -1,54 +1,33 @@
 # Python_projects
 
-Some python projects i code in [100-days-code-bootcamp](https://www.udemy.com/course/100-days-of-code/) (by Angela Yu) and more
+Collection of python projects i code in [100-days-code-bootcamp](https://www.udemy.com/course/100-days-of-code/) (by Angela Yu) in recent to previous order.
 
 ...
    
-   
+### **U.S. States Game** - day 25
 
-### **Blackjack** - day 11 
+I used pandas and turtle modules
 
-Blackjack with infinite deck.
-
-<img src ="img/blackjack.png" width= "450">
-
-
-\~~~
+#### Remarks:
+* When you cancel game finishes without an error.
+* Before running code, make sure pandas and turtle packages are installed.
 
 
-### **Hirst's Dots & Spirograf** - day 18
-
-Using _colorgram.py_ and _turtle_ packages, made colorful circles and a similar of Hirst's famous dot paintings.
-
-
-<img src ="img/spirograf.png" width= "450">
-<img src ="img/hirst.png" width= "450">
-
+<img src ="img/states.png" width= "450"> 
 
 \~~~
 
 
-### **Rainbow Turtle Race** - day 19
+### **Turtle Cross** - day 23
 
-I used turtle graphics to create rainbow-color turtles and put them on a randomized pace race.
+I used turtle module to create a turtle crossing game.
 
-
-<img src ="img/turtle-race.png" width= "450">
-
-
-\~~~
+#### Rules:
+* Turtle can only move forward
+* Cars' speed increases as level increases 
 
 
-### **Snake Game** - day 20-21
-
-I used turtle graphics to code the legendary *SNAKE GAME*.
-#### RULES:
-* if you crash into snakes, game over
-* if you crash to the boundaries, game over
-
-
-<img src ="img/snake.png" width= "450">
-
+<img src ="img/turtle-cross.png" width= "450">
 
 \~~~
 
@@ -64,17 +43,52 @@ I used turtle module to code the legendary arcade game *PONG*.
 
 <img src ="img/pong.png" width= "450">
 
+\~~~
+
+
+### **Snake Game** - day 20-21
+
+I used turtle graphics to code the legendary *SNAKE GAME*.
+#### RULES:
+* if you crash into snakes, game over
+* if you crash to the boundaries, game over
+
+
+<img src ="img/snake.png" width= "450">
 
 \~~~
 
 
-### **Turtle Cross** - day 23
+### **Rainbow Turtle Race** - day 19
 
-I used turtle module to create a turtle crossing game.
-
-#### Rules:
-* Turtle can only move forward
-* Cars' speed increases as level increases 
+I used turtle graphics to create rainbow-color turtles and put them on a randomized pace race.
 
 
-<img src ="img/turtle-cross.png" width= "450">
+<img src ="img/turtle-race.png" width= "450">
+
+
+\~~~
+
+
+### **Hirst's Dots & Spirograf** - day 18
+
+Using _colorgram.py_ and _turtle_ packages, made colorful circles and a similar of Hirst's famous dot paintings.
+
+
+<img src ="img/spirograf.png" width= "450">
+<img src ="img/hirst.png" width= "450">
+
+
+
+\~~~
+
+  
+
+### **Blackjack** - day 11 
+
+Blackjack with infinite deck.
+
+<img src ="img/blackjack.png" width= "450">
+
+
+
